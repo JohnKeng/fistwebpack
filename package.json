@@ -1,0 +1,21 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "John Keng",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.21.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "style-loader": "^0.13.1"
+  }
+}
