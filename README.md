@@ -1,4 +1,3 @@
-# fistwebpack
 my first webpack setup
 
 ## 1 安装 webpack 本地依賴
@@ -11,8 +10,7 @@ $ npm install css-loader style-loader
 
 
 
-////////////////////////////////////////////////////////////////////
-###以下視開發工具而選擇安裝
+///////////////////////////////以下視開發工具而選擇安裝/////////////////////////////////////
 
 ## 3 安裝 babel
 $ npm install --save-dev babel-cli babel-preset-env babel-polyfill
